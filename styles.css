@@ -1,5 +1,11 @@
+@font-face{
+	font-family: "fuente bonita";
+	src: url(fonts/Delius-Regular.ttf);
+	}
 body{
     background-color: #f7a7bb;
+	
+	src: url(fonts/Delius-Regular.ttf);
 }
 
 h1{
